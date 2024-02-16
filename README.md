@@ -9,19 +9,20 @@ I'm a passionate Ruby on Rails developer and educator at [Le Wagon](https://www.
 - 💡 **Project Facilitator** - Supervising the development of numerous MVPs, from ideation to launch.
 
 ## 🛠️ Projects
-- **Stori**: A platform where users share and discover captivating stories. Built with Rails, it emphasizes narrative engagement.
-- **Wyshlist**: Revolutionizing gift-giving through a collaborative wishlist app. Features real-time updates and social sharing.
-- **Avenist**: Streamlining event planning with a comprehensive toolset for hosts and attendees alike, enhancing the event experience.
+- [**Stori**](https://stori-app-vemfiwopgq-as.a.run.app/): A platform where users share and discover captivating stories. Built with Rails, it emphasizes narrative engagement.
+- [**Wyshlist**](https://www.wyshlist.net/): Revolutionizing gift-giving through a collaborative wishlist app. Features real-time updates and social sharing.
+- [**Avenist**](https://avenist.com/): Streamlining event planning with a comprehensive toolset for hosts and attendees alike, enhancing the event experience.
 
 ## 🌈 Skills
 - **Languages**: Ruby, HTML, CSS, JavaScript
-- **Frameworks**: Ruby on Rails :railway_track:, React
+- **Frameworks**: Ruby on Rails :railway_track:
 - **Databases**: PostgreSQL
 - **Tools & Services**: Redis, Microsoft Power Platform, Git, GitHub
 
 ## 📫 Get in Touch
-- **LinkedIn**: [Your LinkedIn](#)
-- **GitHub**: [Your GitHub](#)
-- **Email**: [Your Email](mailto:your_email@example.com)
+- **LinkedIn**: [christinasugiono](https://www.linkedin.com/in/christinasugiono)
+- **GitHub**: [christinaali](https://github.com/christinaali)
+- **Email**: [christina.sugiono95@gmail.com](mailto:christina.sugiono95@gmail.com)
+
 
 > "Empowering the next wave of developers to build software with heart." :heart:
