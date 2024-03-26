@@ -1,7 +1,7 @@
 # Christina Sugiono Ali :woman_technologist:
 
 ## 🚀 About Me
-I'm a passionate Ruby on Rails developer and educator at [Le Wagon](https://www.lewagon.com/), where I empower students to build their dream projects. My journey in tech is driven by curiosity, creativity, and the joy of turning ideas into reality.
+I'm a Ruby on Rails developer and teacher at [Le Wagon](https://www.lewagon.com/), where I help students bring their project ideas to life. I'm driven by curiosity, creativity, and the joy of turning ideas into reality.
 
 ## :teacher: Teaching at Le Wagon
 - 📚 **Instructor** - Guiding aspiring developers through the intricacies of web development with Ruby on Rails.
