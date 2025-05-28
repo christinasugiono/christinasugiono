@@ -1,4 +1,4 @@
-# Christina Sugiono Ali :woman_technologist:
+# Christina Sugiono :woman_technologist:
 
 ## 🚀 About Me
 I'm a Ruby on Rails developer and teacher at [Le Wagon](https://www.lewagon.com/), where I help students bring their project ideas to life. I'm driven by curiosity, creativity, and the joy of turning ideas into reality.
